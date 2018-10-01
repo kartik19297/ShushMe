@@ -1,5 +1,6 @@
 # ShushMe
 Google Places API demo app
+User can mark a location and will be reminded whenever they enter in 50m of that marked location
 
 ## Screenshots
 
