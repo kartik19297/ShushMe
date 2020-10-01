@@ -1,5 +1,5 @@
 # ShushMe
-* Google Places API with Geofires demo app
+* An android app using Google Places API with Geofires
 * Whenever user comes within specified range of a geofire, phone goes on silent mode.
 
 ## Screenshots
